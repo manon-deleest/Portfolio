@@ -3,6 +3,7 @@
 ***
 ## Préambule 
 J’ai créé un portfolio afin de faire connaître mes différents projets et ainsi montrer les compétences acquises durant mes deux années d’IUT. A travers ce projet, mon but était qu’un recruteur puisse tout de suite trouver ses informations mais également de faire refléter les traits de ma personnalité et d’apporter la preuve de mon savoir-faire. Je voulais que le visuel et le design me correspondent mais aussi que je puisse faire évoluer mon portfolio facilement.
+Lien accécible [ici](https://manon-deleest.go.yo.fr/)
 
 ***
 ## Contexte
